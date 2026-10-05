@@ -1,0 +1,1 @@
+if Config.Framework ~= "qbcore" then return end
